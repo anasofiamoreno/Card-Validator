@@ -1,0 +1,63 @@
+header{
+    font-size: 30px;
+    position: relative;
+    left: 90px;
+}
+
+body{
+    width: 400px;
+    background: rgb(170, 130, 207);
+}
+
+input[type=text]{
+    width: 60px;
+    font-size:x-large;
+    background-color: transparent;
+}
+
+input[type=password]{
+    width: 60px;
+    font-size:x-large;
+    background-color: transparent;
+}
+
+input[type="button"]{
+    left: 150px;
+}
+
+form{
+    background: url("Img/plantarj.png");
+    width: 454px;
+    height: 381px;
+    position: absolute;
+    left: -40px; top: -50px; 
+    justify-content: row;  
+  
+}
+
+div[id="txinput"]{
+    position: absolute;
+    left: 120px; top: 250px; 
+}
+
+div[id="btninput"]{
+    position: absolute;
+    left: 480px; top: 250px; 
+}
+img{
+    position: absolute;
+    left: 300px; top: 280px;
+
+
+}
+
+#enmascarada{
+    position: relative;
+    left: -10px; top: 12px;
+}
+
+#powered{
+    position: absolute;
+    left: 120px; top: 110px;
+    width: 200px;
+}
